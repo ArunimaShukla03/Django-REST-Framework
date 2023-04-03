@@ -1,0 +1,1 @@
+# We have the development server running at "http://127.0.0.1:8000/" and it is called the "endpoint"
